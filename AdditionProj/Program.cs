@@ -11,6 +11,7 @@ namespace AdditionProj
 		static void Main(string[] args)
 		{
 			int a = 10, b = 20;
+			int c = a+b;
 			Console.WriteLine("Addition of two numbers = " + (a + b));
 			Console.ReadKey();
 		}
