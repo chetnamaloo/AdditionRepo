@@ -1,0 +1,7 @@
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\bin\Debug\AdditionProj.exe.config
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\bin\Debug\AdditionProj.exe
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\bin\Debug\AdditionProj.pdb
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\obj\Debug\AdditionProj.csprojAssemblyReference.cache
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\obj\Debug\AdditionProj.csproj.CoreCompileInputs.cache
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\obj\Debug\AdditionProj.exe
+C:\Users\chetna\source\repos\AdditionProj\AdditionProj\obj\Debug\AdditionProj.pdb
